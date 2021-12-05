@@ -16,13 +16,15 @@ Learned to integrate PostgreSQL in the backend, recording data and serving them 
 
 
 #installiation required for this project
+
 pip install django
 
 Pip install pillow
 
 pip install Pylint
 
-#for making migrtions
+#for making migrations
+
 python manage.py makemigrations
 
 python manage.py migrate
