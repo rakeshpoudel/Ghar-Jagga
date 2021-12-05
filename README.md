@@ -8,8 +8,7 @@ Learned to integrate PostgreSQL in the backend, recording data and serving them 
 
 #Homepage
 ![screenshot of ghar 1](https://user-images.githubusercontent.com/63383572/144755339-5ad376db-02ca-46e1-9642-cea454bf5329.PNG)
-![screenshot of ghar 2](https://user-images.githubusercontent.com/63383572/144755366-24f7a0e7-6108-491f-8c93-b2c3e15ece37.PNG)
-![screenshot of ghar 3](https://user-images.githubusercontent.com/63383572/144755480-a186997a-61a6-450e-99d9-b60fc254aa9b.PNG)
+
 
 
 #Listing page
@@ -18,11 +17,14 @@ Learned to integrate PostgreSQL in the backend, recording data and serving them 
 
 #installiation required for this project
 pip install django
+
 Pip install pillow
+
 pip install Pylint
 
-#for making migraions
+#for making migrtions
 python manage.py makemigrations
+
 python manage.py migrate
 
 
